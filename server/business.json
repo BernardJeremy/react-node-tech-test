@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0b19a553-b642-477d-a355-3cc820748c02",
+    "title": "Bureau Schizo Cat",
+    "manager": "Mikael Allier",
+    "city": "Paris 15eme",
+    "type": "Bureau",
+    "closed": false,
+    "updatedAt": "2020-12-10T10:52:46.475Z",
+    "createdAt": "2020-12-10T09:59:49.000Z"
+  },
+  {
+    "id": "b7d62485-3f33-4332-96c2-c74a7d0d07bb",
+    "title": "Parking Raccoon",
+    "manager": "Jeremy Bernard",
+    "city": "Paris 14eme",
+    "type": "Parking",
+    "closed": false,
+    "updatedAt": "2020-12-10T09:59:49.000Z",
+    "createdAt": "2020-12-10T09:59:49.000Z"
+  },
+  {
+    "id": "5bba7b61-9881-4c4d-b8c7-fe550663b60d",
+    "title": "Résidence Duck Always First",
+    "manager": "Arnaud Veber",
+    "city": "Paris 16eme",
+    "type": "Résidence",
+    "closed": true,
+    "updatedAt": "2020-12-10T09:59:49.000Z",
+    "createdAt": "2020-12-10T09:59:49.000Z"
+  }
+]
